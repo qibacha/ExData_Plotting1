@@ -1,0 +1,17 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   plot1.R
+#	new file:   plot1.png
+#	new file:   plot2.R
+#	new file:   plot2.png
+#	new file:   plot3.R
+#	new file:   plot3.png
+#	new file:   plot4.R
+#	new file:   plot4.png
+#
+
